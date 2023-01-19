@@ -1,5 +1,5 @@
-#it is a container in programming laguages that hold data
-# like int float long char string as examples
+#Variables is a container in programming laguages that hold data
+# like (int float long char str) as examples
 
 
 #Examples
